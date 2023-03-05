@@ -42,11 +42,30 @@
 
 // console.log(arrSum);
 
-5.
-function array(...numbers) {
-    for (let i = 0; array.length <= 100; i--) {
-        console.log(array[i]);
-        }  
-} 
+// 5.
+// let i = [100];
+// for (let index = 1; index <= 100; index++) {
+//   // const element = i[index];
+//   console.log(index);
+// }
 
-array()
+// function x (...numbers) {
+// for (let index = 100; index >= 1; index--) {
+//   // const element = i[index];
+//   console.log(index);
+// }
+
+// }
+
+// x()
+
+// 6.
+// function num(x, y) {
+//     if ( x > y){
+//         console.log('num1 is the largest;');
+//     } else if (y > x){
+//         console.log('num2 is the largest');
+//     }
+//     else ('error')
+// }
+// num(79, 400)
